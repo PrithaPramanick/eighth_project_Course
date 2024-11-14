@@ -1,0 +1,81 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+
+body{
+  background-image: url('/public/images/lab.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  overflow:hidden;
+}
+
+.udemy{
+  margin-right: 20%;
+}
+
+ .bold {
+  font-weight: bold;  
+  }
+
+
+  .nav-link:hover {
+    color: white !important; 
+}
+
+.F_page h1{
+  margin-left: 50%;
+  margin-top:8%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.F_page h4{
+  margin-left: 46%;
+  margin-top:3%;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.F_page p{
+ padding-left:43%;
+margin-right: 20%;
+}
+
+.row1 {
+ height:20%;
+}
+
+.container_c h2{
+  margin-left: 25%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container_c{
+  /* size-adjust: 30%; */
+  background-color: lightblue;
+}
+
+.container_a{
+  margin-left: 50%;
+  margin-right:20%;
+  margin-top: 20%;
+}
+
+.container_p{
+  background-color: lightblue;
+  margin-left: 50%;
+  /* margin-top: 5%; */
+  margin-right: 10%
+}
+
+
+.container_x{
+  margin-top: 20px;
+  margin-left:45%;
+  margin-right: 10%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
